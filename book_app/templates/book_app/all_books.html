@@ -1,0 +1,13 @@
+{% extends 'book_app/base.html'%}
+
+{% block title %} все книги {% endblock title %}
+
+
+{% block content %}
+<h2> Список всех книг </h2>
+<ul>
+    {% for i in books %}
+        <li>  <a href="{{i.get_url}}"> {{i.title}}  </a>  </li>
+    {% endfor %}
+
+{% endblock content %}

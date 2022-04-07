@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5471e95c-2507-4905-85b9-7c266a99010f" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bookshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/migrations/0002_auto_20220331_0324.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/migrations/0003_auto_20220331_0335.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/templates/book_app/all_books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/templates/book_app/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/templates/book_app/one_book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshop/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27JYxwDoxFb1UgmpcJMuuNt84xH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5471e95c-2507-4905-85b9-7c266a99010f" name="Changes" comment="" />
+      <created>1649039905943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649039905943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
